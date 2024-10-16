@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://personalweb-risvant.netlify.app/)
 <h1 align="center">Hi 👋, I'm Risvan</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A MERN Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*w1BTUZctqyEYJrldIqJXqg.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risvant&label=Profile%20views&color=0e75b6&style=flat" alt="risvant" /> </p>
